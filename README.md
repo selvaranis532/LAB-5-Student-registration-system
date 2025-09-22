@@ -28,6 +28,7 @@ c. Better Service
 
 ## ACTIVITY DIAGRAM :
 <img width="925" height="657" alt="Screenshot 2025-09-22 103810" src="https://github.com/user-attachments/assets/f2f4eeb1-b97e-4970-96f2-95c138145bba" />
+
 ## COMMUNICATION DIAGRAM :
 <img width="929" height="666" alt="Screenshot 2025-09-22 103840" src="https://github.com/user-attachments/assets/b0b53c48-8916-4a8b-ac49-a2abb71bc226" />
 
